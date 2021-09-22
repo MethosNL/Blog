@@ -1,1 +1,1 @@
-My Foo
+My Foo is strong!
